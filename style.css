@@ -1,0 +1,22 @@
+@import url('https://github.com/mariahelois4o/meu-portif-lio.git')
+
+:root {
+    --cor-principal: #6E859F;
+    --cor-secundaria: #284260;
+    --cor-destaque: #C92BFC;
+}
+body{
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+h1 h2 h5{
+    color: var(--cor-secundaria);
+    font-weight: 700;
+}
+footer a {
+    color: var(--cor-principal)
+}
+
+foonter a:houver {
+    color: var(--cor-destaque);
+}
